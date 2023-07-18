@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![Stars][stars-shield]][stars-url]
@@ -196,7 +195,7 @@ mutation {
 <!-- MARKDOWN LINKS & IMAGES -->
 <!--  -->
 [contributors-shield]: https://img.shields.io/github/contributors/Drala-Mountain-Center-App/dmc_back_end.svg?style=for-the-badge
-[contributors-url]: https://github.com/Drala-Mountain-Center-App/dmc_back_end/graphs/contributors
+[contributors-url]: https://github.com/Drala-Mountain-Center-App/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Drala-Mountain-Center-App/dmc_back_end.svg?style=for-the-badge
 [forks-url]: https://github.com/Drala-Mountain-Center-App/dmc_back_end/network/members
 [stars-shield]: https://img.shields.io/github/stars/Drala-Mountain-Center-App/dmc_back_end.svg?style=for-the-badge
