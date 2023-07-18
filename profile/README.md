@@ -6,8 +6,11 @@
 </div>
 
 <!-- Main Image -->
-<div align="center">
-  <img src="https://github.com/Drala-Mountain-Center-App/dmc_front_end/assets/115356592/fd463a24-485d-4b04-938f-94d1d1689d2e" alt="timer" width="500" />
+<div>
+  <div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Drala-Mountain-Center-App/dmc_front_end/assets/115356592/fd463a24-485d-4b04-938f-94d1d1689d2e" alt="timer" width=30% />
+  <img src="https://github.com/Drala-Mountain-Center-App/dmc_front_end/assets/115356592/e9d40706-7568-4b1f-ae80-4f07cd4f1f21" alt="login" width=30% />
+  <img src="https://github.com/Drala-Mountain-Center-App/dmc_front_end/assets/115356592/4ce76c83-f745-4b43-bec7-e04e4ddd8ad1" alt="calendar" width=30% />
 </div>
 <!-- Table of Contents -->
 
@@ -17,7 +20,6 @@
 - [Built With](#built-with)
 - [Minimum Viable Product](#minimum-viable-product)
 - [Possible Extensions](#possible-extensions)
-- [Application Tour](#application-tour)
 - [Set up](#set-up)
 - [Login Instructions](#login-instructions)
 - [Wins](#wins)
@@ -69,14 +71,6 @@ The dmc_back_end application provides a single GraphQL endpoint with all app inf
 * Specific Advanced Practice Trackers (Ngondro/Stroke Practice).
 * Integrate Web-sockets to add live chat feature.
 * Add collaborative meditation option (using google meetup, facetime or other video app, not sure what the options are)
-
-## Application Tour
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Drala-Mountain-Center-App/dmc_front_end/assets/115356592/e9d40706-7568-4b1f-ae80-4f07cd4f1f21" alt="login" width="300" />
-  <img src="https://github.com/Drala-Mountain-Center-App/dmc_front_end/assets/115356592/4ce76c83-f745-4b43-bec7-e04e4ddd8ad1" alt="calendar" width="300" />
-  <img src="https://github.com/Drala-Mountain-Center-App/dmc_front_end/assets/115356592/09ec90b4-7ef9-4d17-a3d1-195e07cb0208" alt="videos/photos" width="300" />
-</div>
 
 ## Set up
 1. Fork this repo
