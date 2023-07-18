@@ -1,9 +1,5 @@
 <a name="readme-top"></a>
 
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
-[![Stars][stars-shield]][stars-url]
-
 <!-- DMC Logo -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/112587650/253305295-f548caac-b273-4f40-b29e-f5284e94109a.jpeg" alt="DMC Logo" width="50%" height="200">
